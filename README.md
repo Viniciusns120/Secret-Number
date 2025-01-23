@@ -18,4 +18,4 @@ This is a project developed as part of the propouse challenge by Alura to aprimo
  ## <h3>📱 Rede Social</h3>
  Vinicius Nascimento - [Linkedin](https://www.linkedin.com/in/sgt-nascimento/)
 
-## <h1> .🤖[PLAY GAME]('https://secret-number-sooty.vercel.app/')🤖.</h1>
+## <h1>[🤖PLAY GAME🤖](https://secret-number-sooty.vercel.app/)</h1>
